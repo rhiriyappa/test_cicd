@@ -3,7 +3,7 @@ services:
   - docker
 
 script:
-  - docker build -t rhiriyappa/node .
-  - docker images rhiriyappa/node
+  - docker build -t rhiriyappa/node2 .
+  - docker images rhiriyappa/node2
 
   
